@@ -6,7 +6,7 @@ import React from 'react';
                  About Us
              </h1>
              <p>
-        hi guys this is a sample about us paragraph under testing host
+        hi guys this is a sample about us paragraph, under testing host
             
              </p>
             
